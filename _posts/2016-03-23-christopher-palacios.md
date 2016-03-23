@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-23T13:54:54.815Z'
-dateModified: '2016-03-23T13:53:57.079Z'
+datePublished: '2016-03-23T14:17:05.124Z'
+dateModified: '2016-03-23T13:56:42.883Z'
 title: CHRISTOPHER PALACIOS
 author: []
+sourcePath: _posts/2016-03-23-christopher-palacios.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-christopher-palacios.md
-published: true
-url: christopher-palacios/index.html
-_type: Article
+_type: Blurb
 
 ---
 # CHRISTOPHER PALACIOS
