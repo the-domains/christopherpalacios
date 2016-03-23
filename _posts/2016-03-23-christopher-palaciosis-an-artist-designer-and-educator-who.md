@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-23T17:20:37.327Z'
-dateModified: '2016-03-23T17:20:11.757Z'
+datePublished: '2016-03-23T17:21:02.577Z'
+dateModified: '2016-03-23T17:20:42.685Z'
 title: 'christopher palaciosis an artist, designer and educator who lives and works in portland, oregon.'
 author: []
+sourcePath: _posts/2016-03-23-christopher-palaciosis-an-artist-designer-and-educator-who.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-christopher-palaciosis-an-artist-designer-and-educator-who.md
-published: true
 url: christopher-palaciosis-an-artist-designer-and-educator-who/index.html
 _type: Article
 
