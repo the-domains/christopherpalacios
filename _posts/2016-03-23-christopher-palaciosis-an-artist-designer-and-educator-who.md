@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-23T17:40:35.401Z'
-dateModified: '2016-03-23T17:25:34.688Z'
+datePublished: '2016-03-23T17:41:20.257Z'
+dateModified: '2016-03-23T17:40:39.832Z'
 title: "christopher palacios\_is an artist, designer and educator who lives and works in portland, oregon."
 author: []
 sourcePath: _posts/2016-03-23-christopher-palaciosis-an-artist-designer-and-educator-who.md
