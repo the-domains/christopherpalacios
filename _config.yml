@@ -1,4 +1,5 @@
-layout_spectrum: 0.13376
+favicon: null
+name: christopherpalacios
 opengraph:
   image: null
   type: null
@@ -19,7 +20,7 @@ purpose: []
 color:
   saturation: 0.5118044
   brandStrength: 0.2630692
-  lightness: 0.5151771
+  lightness: 1
   brandColors:
     - '#3044B3'
     - '#FFC6CF'
@@ -28,13 +29,12 @@ color:
     - '#B4426E'
   rhythmicContrast: 0.5126476
 typography_spectrum: 0.4009
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.13376
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: christopherpalacios
+cta:
+  bucket: null
+  version: null
+  domain: null
