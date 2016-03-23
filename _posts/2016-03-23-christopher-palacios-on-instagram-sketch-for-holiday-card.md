@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Christopher Palacios on Instagram: “Sketch for holiday card”'
-datePublished: '2016-03-23T14:42:12.522Z'
-dateModified: '2016-03-23T14:38:23.134Z'
+datePublished: '2016-03-23T16:27:50.579Z'
+dateModified: '2016-03-23T14:42:18.110Z'
 author: []
 title: ''
 sourcePath: _posts/2016-03-23-christopher-palacios-on-instagram-sketch-for-holiday-card.md
