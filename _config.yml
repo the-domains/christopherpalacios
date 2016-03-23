@@ -1,5 +1,7 @@
-favicon: null
-name: christopherpalacios
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -10,31 +12,29 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.5625
-  brandStrength: 0.1875
-  rhythmicContrast: 0.5
+  saturation: 0.5050125
+  brandStrength: 0.4047619
+  lightness: 0.8402256
   brandColors:
     - '#3044B3'
     - '#FFC6CF'
     - '#E9669A'
     - '#E03939'
     - '#B4426E'
-  lightness: 0.625
-typography_spectrum: 0.3971332
+  rhythmicContrast: 0.7393484
+typography_spectrum: 0.4354637
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.7503
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.5595238
+favicon: null
+name: christopherpalacios
