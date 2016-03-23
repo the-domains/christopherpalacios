@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:57d4c617-04f6-4969-9136-810d04821572'
+inLanguage: null
+starred: false
+keywords: []
 description: 'Christopher Palacios on Instagram: “Sketch for holiday card”'
+datePublished: '2016-03-23T14:42:12.522Z'
+dateModified: '2016-03-23T14:38:23.134Z'
 author: []
-datePublished: '2016-03-23T14:33:53.233Z'
-publisher:
-  domain: ''
-  name: ''
-dateModified: '2016-03-23T14:33:17.090Z'
 title: ''
 sourcePath: _posts/2016-03-23-christopher-palacios-on-instagram-sketch-for-holiday-card.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: christopher-palacios-on-instagram-sketch-for-holiday-card/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
