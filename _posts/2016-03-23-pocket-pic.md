@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BAEH0oGybxk/'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Christopher Palacios on Instagram: “Pocket pic”'
+datePublished: '2016-03-23T16:27:50.580Z'
+dateModified: '2016-03-23T16:20:43.522Z'
 author:
   - name: postnoodle
     url: 'https://www.instagram.com/postnoodle'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1154081807315614820'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BAEH0oGybxk/'
 title: Pocket pic
-datePublished: '2016-03-23T14:33:53.376Z'
-dateModified: '2016-03-23T14:30:55.912Z'
 sourcePath: _posts/2016-03-23-pocket-pic.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
