@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: christopherpalacios
 opengraph:
   image: null
   type: null
@@ -20,21 +18,23 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.7360877
+  saturation: 0
   brandStrength: 0.2630692
-  lightness: 0.6686341
+  lightness: 0.7731872
   brandColors:
     - '#3044B3'
     - '#FFC6CF'
     - '#E9669A'
     - '#E03939'
     - '#B4426E'
-  rhythmicContrast: 0.6112985
+  rhythmicContrast: 0.7681282
 typography_spectrum: 0.4009
-layout_spectrum: 0.13376
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
-name: christopherpalacios
+layout_spectrum: 0.13376
+analytics:
+  twitter: null
+  google: null
+  facebook: null
