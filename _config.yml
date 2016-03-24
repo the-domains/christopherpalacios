@@ -1,5 +1,7 @@
-favicon: null
-name: christopherpalacios
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -27,14 +29,12 @@ color:
     - '#E9669A'
     - '#E03939'
     - '#B4426E'
-  rhythmicContrast: 0.5126476
+  rhythmicContrast: 0.8161889
 typography_spectrum: 0.4009
 layout_spectrum: 0.13376
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: christopherpalacios
