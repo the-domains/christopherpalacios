@@ -4,21 +4,21 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: California – Ohio
-datePublished: '2016-03-25T08:26:49.944Z'
-dateModified: '2016-03-25T08:26:07.313Z'
+datePublished: '2016-03-25T08:32:17.792Z'
+dateModified: '2016-03-25T08:32:07.085Z'
 title: "Christopher Palacios\_is an artist, designer and educator who lives and works in portland, oregon."
 author: []
 sourcePath: _posts/2016-03-23-christopher-palaciosis-an-artist-designer-and-educator-who.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 _type: Blurb
 
 ---
