@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: He relocated to the pacific northwest in search of greener pastures.
-datePublished: '2016-03-25T08:18:21.455Z'
-dateModified: '2016-03-25T08:18:08.074Z'
+datePublished: '2016-03-25T08:26:49.748Z'
+dateModified: '2016-03-25T08:26:13.088Z'
 title: Palacios left academia in 2008 and returned to the bay area to focus on his consulting and freelance work.
 author: []
 sourcePath: _posts/2016-03-25-palacios-left-academia-in-2008-and-returned-to-the-bay-area.md
