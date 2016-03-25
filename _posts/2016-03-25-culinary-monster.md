@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-25T03:12:51.193Z'
-dateModified: '2016-03-25T03:10:30.802Z'
+datePublished: '2016-03-25T07:48:04.988Z'
+dateModified: '2016-03-25T07:41:36.563Z'
 author: []
 title: Culinary Monster
+sourcePath: _posts/2016-03-25-culinary-monster.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-culinary-monster.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
