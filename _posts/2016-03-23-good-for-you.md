@@ -4,21 +4,21 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Now let us get back to work.
-datePublished: '2016-03-25T08:23:16.654Z'
-dateModified: '2016-03-25T08:21:29.034Z'
+datePublished: '2016-03-25T08:32:17.808Z'
+dateModified: '2016-03-25T08:32:07.127Z'
 title: Good For You.
 author: []
 sourcePath: _posts/2016-03-23-good-for-you.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 _type: Blurb
 
 ---
