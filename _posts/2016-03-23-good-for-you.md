@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Now let us get back to work.
-datePublished: '2016-03-25T08:13:07.638Z'
-dateModified: '2016-03-25T08:12:57.701Z'
+datePublished: '2016-03-25T08:23:16.654Z'
+dateModified: '2016-03-25T08:21:29.034Z'
 title: Good For You.
 author: []
 sourcePath: _posts/2016-03-23-good-for-you.md
